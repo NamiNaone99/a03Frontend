@@ -9,7 +9,7 @@ const Banner = () => {
         className={styles.image}
       />
       <div className={styles.overlay}>
-        <h1 className={styles.title}>Where every event finds its venue</h1>
+        <h1 className={styles.title}>where every event finds its venue</h1>
         <p className={styles.description}>
           ให้บริการสถานที่จัดเลี้ยงในบรรยากาศสุดพิเศษ
         </p>
